@@ -81,7 +81,7 @@ module.exports = {
     ],
     'no-label-var': 2,
     'no-undef-init': 2,
-    'no-undefined': 2,
+    'no-undefined': 0,
     'no-use-before-define': 2,
 
     // Stylistic Issues
@@ -166,7 +166,7 @@ module.exports = {
     'no-nested-ternary': 2,
     'no-tabs': 2,
     'no-trailing-spaces': 2,
-    'no-underscore-dangle': 2,
+    'no-underscore-dangle': 0,
     'no-unneeded-ternary': 2,
     'no-whitespace-before-property': 2,
     'object-curly-spacing': [
@@ -246,7 +246,7 @@ module.exports = {
         'after': true
       }
     ],
-    'no-confusing-arrow': 2,
+    'no-confusing-arrow': 0,
     'no-const-assign': 2,
     'no-duplicate-imports': 2,
     'no-restricted-imports': 2,
@@ -257,7 +257,6 @@ module.exports = {
     'no-var': 2,
     'prefer-arrow-callback': 2,
     'prefer-const': 2,
-    'prefer-template': 2,
     'prefer-template': 2,
     'require-yield': 2,
     'template-curly-spacing': [
